@@ -1,0 +1,32 @@
+Select the Algorithm
+1.K-nn Algorithm 2.K-nn Weighted Algorithm 3.SVM Algorithm 4.Naive Bayesian Classification 0.Exit
+1
+How many attributes mattered (0 for exit):  200
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 90.125%   | Accuracy = 83.0%   | Accuracy = 90.5%   |
+How many attributes mattered (0 for exit):  400
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 88.125%   | Accuracy = 83.125%   | Accuracy = 87.75%   |
+How many attributes mattered (0 for exit):  600
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 88.375%   | Accuracy = 83.25%   | Accuracy = 88.5%   |
+How many attributes mattered (0 for exit):  800
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 88.875%   | Accuracy = 84.25%   | Accuracy = 88.875%   |
+How many attributes mattered (0 for exit):  1000
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 88.875%   | Accuracy = 86.0%   | Accuracy = 88.625%   |
+How many attributes mattered (0 for exit):  2000
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 87.375%   | Accuracy = 86.5%   | Accuracy = 87.75%   |
+How many attributes mattered (0 for exit):  3304
+The parameter of K:  3
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 86.625%   | Accuracy = 86.625%   | Accuracy = 86.625%   |
+How many attributes mattered (0 for exit):  

@@ -1,0 +1,31 @@
+Select the Algorithm
+1.K-nn Algorithm 2.K-nn Weighted Algorithm 3.SVM Algorithm 4.Naive Bayesian Classification 0.Exit
+4
+How many attributes mattered (0 for exit):  50 
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 95.25%   | Accuracy = 87.25%   | Accuracy = 95.125%   |
+How many attributes mattered (0 for exit):  100
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 95.125%   | Accuracy = 86.25%   | Accuracy = 95.125%   |
+How many attributes mattered (0 for exit):  200
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 93.125%   | Accuracy = 87.75%   | Accuracy = 93.125%   |
+How many attributes mattered (0 for exit):  400
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 92.5%   | Accuracy = 87.0%   | Accuracy = 92.375%   |
+How many attributes mattered (0 for exit):  600
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 91.75%   | Accuracy = 87.25%   | Accuracy = 91.875%   |
+How many attributes mattered (0 for exit):  800
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 90.875%   | Accuracy = 87.125%   | Accuracy = 90.875%   |
+How many attributes mattered (0 for exit):  1000
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 90.375%   | Accuracy = 87.5%   | Accuracy = 90.25%   |
+How many attributes mattered (0 for exit):  2000
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 88.75%   | Accuracy = 87.5%   | Accuracy = 88.75%   |
+How many attributes mattered (0 for exit):  3304
+MTL                 |CMTL                |CEMTL                |
+Accuracy = 86.75%   | Accuracy = 86.75%   | Accuracy = 86.75%   |
+How many attributes mattered (0 for exit):  
